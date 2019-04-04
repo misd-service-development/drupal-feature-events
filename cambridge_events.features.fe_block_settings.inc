@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @file
  * cambridge_events.features.fe_block_settings.inc
@@ -18,15 +19,14 @@ function cambridge_events_default_fe_block_settings() {
     'delta' => 'events-block',
     'module' => 'views',
     'node_types' => array(),
-    'pages' => 'events
-events/*',
+    'pages' => '',
     'roles' => array(),
     'themes' => array(
       'cambridge_theme' => array(
-        'region' => 'sidebar',
-        'status' => 1,
+        'region' => '',
+        'status' => 0,
         'theme' => 'cambridge_theme',
-        'weight' => 0,
+        'weight' => -26,
       ),
       'seven' => array(
         'region' => '',

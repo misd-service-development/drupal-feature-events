@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @file
  * cambridge_events.features.inc
@@ -28,7 +29,7 @@ function cambridge_events_node_info() {
     'event' => array(
       'name' => t('Event'),
       'base' => 'node_content',
-      'description' => 'Use <em>event</em> to add events to your site.',
+      'description' => t('Use <em>event</em> to add events to your site.'),
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',
