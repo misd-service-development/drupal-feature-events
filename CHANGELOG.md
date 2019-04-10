@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.1
+
+10 April 2019
+
+Add date_views as a dependency
+
+
 2.0
 
 4 April 2019
