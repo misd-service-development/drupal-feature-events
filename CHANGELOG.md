@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.2
+
+20 May 2019
+
+Added calendar view and updated dependencies.
+
+
 2.1
 
 10 April 2019
