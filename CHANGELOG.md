@@ -1,6 +1,14 @@
 Changelog
 =========
 
+2.3
+
+7 October 2019
+
+Small fixes:
+1) reverse sort order for past events
+2) reduce minimum image size to leading image rather than carousel
+
 2.2
 
 20 May 2019
