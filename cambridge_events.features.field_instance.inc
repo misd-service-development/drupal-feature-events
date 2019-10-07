@@ -792,7 +792,7 @@ function cambridge_events_field_default_field_instances() {
       ),
       'max_filesize' => '',
       'max_resolution' => '',
-      'min_resolution' => '885x432',
+      'min_resolution' => '590x288',
       'title_field' => 0,
       'user_register_form' => FALSE,
       'wysiwyg_insert' => 0,
